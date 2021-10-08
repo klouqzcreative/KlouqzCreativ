@@ -2,7 +2,7 @@
 <h1 align="center">Hi :wave:, My name is Klouqz!</h1>
 <h3 align="center">And I'm İn Love With Codes.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=klouqz&label=Profile%20views&color=0e75b6&style=flat" alt="klouqz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=klouqz&label=Profile%20views&color=0e75b6&style=flat" alt=klouqz" /> </p>
 
 
 - 🔭 tly working on [Poliéncé](https://top.gg/bot/834768434574786561)
