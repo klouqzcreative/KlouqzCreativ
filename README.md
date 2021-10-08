@@ -1,4 +1,4 @@
-![image](https://cdn.discordapp.com/attachments/852824048463642624/896163983248224286/DTgNOyTVoAAMhwo.jpg) 
+![image](https://cdn.discordapp.com/attachments/852824048463642624/896166408470290452/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3836343230313032353034.jpg) 
 <h1 align="center">Hi :wave:, My name is Klouqz!</h1>
 <h3 align="center">And I'm İn Love With Codes^^.</h3>
 
