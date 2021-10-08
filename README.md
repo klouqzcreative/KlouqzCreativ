@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klouqz&label=Profile%20views&color=0e75b6&style=flat" alt=klouqz" /> </p>
 
 
-- 🔭 tly working on [Poliéncé](https://top.gg/bot/834768434574786561)
+- 🔭 currently working on [Poliéncé](https://top.gg/bot/834768434574786561)
 
 
 - 📫 contact Poliéncé **https://discord.gg/zgDVN4wyxM** 
