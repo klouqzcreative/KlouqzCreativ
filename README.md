@@ -11,10 +11,10 @@
 - 📫 contact Poliéncé **https://discord.gg/zgDVN4wyxM** 
 
 <div align="center">
-    <a href="https://discord.gg/QQXBS8dc4k" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/847828666671038464"></a>
+    <a href="https://discord.gg/QQXBS8dc4k" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/348927498488250369"></a>
 </div>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=klouqz&show_icons=true&theme=dracula&locale=en" alt="klouqz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KlouqzCreative&show_icons=true&theme=dracula&locale=en" alt="KlouqzCreative" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=klouqz&theme=dracula" alt="klouqz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KlouqzCreative&theme=dracula" alt="KlouqzCreative" /></p>p>
