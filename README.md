@@ -1,4 +1,4 @@
-(![image](https://tenor.com/view/akame-akame-ga-k-ill-anime-fighting-stance-windy-gif-17468654) 
+(![image](https://cdn.discordapp.com/attachments/852824048463642624/896163825873735691/0aacc1c29c9f5a5a634fc07a1d66f1e3.jpg) 
 <h1 align="center">Hi :wave:, My name is Klouqz!</h1>
 <h3 align="center">I'm a self graphic designer & JS Developer.</h3>
 
