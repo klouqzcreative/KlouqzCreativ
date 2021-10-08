@@ -1,6 +1,6 @@
 ![image](https://cdn.discordapp.com/attachments/852824048463642624/896163983248224286/DTgNOyTVoAAMhwo.jpg) 
 <h1 align="center">Hi :wave:, My name is Klouqz!</h1>
-<h3 align="center">And I'm İn Love With Codes.</h3>
+<h3 align="center">And I'm İn Love With Codes^^.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klouqz&label=Profile%20views&color=0e75b6&style=flat" alt=klouqz" /> </p>
 
