@@ -1,4 +1,4 @@
-(![image]https://cdn.discordapp.com/attachments/852824048463642624/896163983248224286/DTgNOyTVoAAMhwo.jpg) 
+![image](https://cdn.discordapp.com/attachments/852824048463642624/896163983248224286/DTgNOyTVoAAMhwo.jpg) 
 <h1 align="center">Hi :wave:, My name is Klouqz!</h1>
 <h3 align="center">I'm a self graphic designer & JS Developer.</h3>
 
